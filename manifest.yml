@@ -1,0 +1,5 @@
+applications:
+  - name: my-chat
+    memory: 256M
+    host: brave-kepler
+    buildpack: staticfile_buildpack
